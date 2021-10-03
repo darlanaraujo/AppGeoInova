@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">geoinova</string>
+    <string name="frase">SOLUÇÕES EM GEOPROCESSAMENTO, \nMONITORAMENTO E BIG DATA \nPARA SUA EMPRESA</string>
+    <string name="creditos">App Desenvolvido por Darlan Araujo</string>
+    <string name="btn1">Layout Mockups</string>
+    <string name="btn5">Vídeo Explicativo</string>
+    <string name="txt_proxima_refeicao">Sua próxima refeição é às</string>
+    <string name="txt_horas">12:30 PM</string>
+    <string name="txt_sugestoes"><![CDATA[<— Sugestões de refeição —>]]></string>
+    <string name="btn_cardapio">Ver Cardápio!</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_pedido">Fazer Pedido!</string>
+    <string name="txt_cardapio">CARDÁPIO</string>
+    <string name="titulo_prato1">NOME DO PRATO</string>
+    <string name="txt_prato1">
+        * Carne seca acebolada;\n
+        * salada de alface, tomate e azeitona preta;\n
+        * arroz integral com brócolis e feijão;\n
+        * couve refogada.</string>
+    <string name="btn_formulario">formulário</string>
+    <string name="titulo_formulario">FORMULÁRIO DE CADASTRO</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="txt_opss">Opss! Você esqueceu de preencher esse campo!</string>
+    <string name="txt_salvo">Cadastro realizado com sucesso!</string>
+    <string name="btn_lista">Listar Cadastro</string>
+    <string name="titulo_lista_cadastro">LISTA DE PESSOAS CADASTRADAS</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_desafio">Desafio Alfabeto</string>
+    <string name="txt_explica">
+        <b>Você sabe o que é um PANGRAMA?</b> \n
+        <b>Pangrama</b> ou <b>Pantograma</b> é uma frase em que são usadas <b>todas as letras do alfabeto</b> de determinada língua.</string>
+    <string name="txt_desafio">Digite um texto no campo abaixo para descobrir se nele contêm todas as letras do alfabeto!</string>
+    <string name="txtPangramas">Quem traz CD, LP, fax, engov e whisky JB?</string>
+    <string name="btn_verificar">Verificar</string>
+    <string name="txt_exemplo">Exemplo de um Pangrama:</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="titulo_video">SOBRE O PROJETO!</string>
+    <string name="txt_agradecimento">
+        Apesar de não ter seguir exatamente as solicitações do desenvolvimento, optei por <b>desenvolver
+        um aplicativo</b> abordando da melhor forma que pude os requisitos solicitados no projeto como o
+        <b>design, interação, usabilidade, lógica e organização</b>. \n
+        Desde já <b>agradeço a oportunidade</b> departicipar dessa seleção.
+    </string>
+    <string name="txt_saiba">Saiba mais!</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/borda_branca.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/drawable/borda_cinza.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tela_desafio.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tela_formulario.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/activity_tela_listar_cadastro.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tela_mockups.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tela_principal.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_tela_video.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/pop_cardapio.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/pop_serv_sauna.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/icon2.xml" value="0.128125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
