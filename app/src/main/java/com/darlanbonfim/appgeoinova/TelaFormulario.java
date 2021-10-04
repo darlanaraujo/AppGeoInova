@@ -99,7 +99,7 @@ public class TelaFormulario extends AppCompatActivity {
                     p.setNome(txtNome.getText().toString());
                     p.setNascimento(txtNascimento.getText().toString());
                     p.setEmail(txtEmail.getText().toString());
-                    p.setSexo(txtSexo.getText().charAt(1));
+                    p.setSexo(txtSexo.getText().charAt(0));
 
                     // Aqui seria execultado os endpoints;
                     Intent endpoint1 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://geoinova.com.br/teste/repositorio.php"));
