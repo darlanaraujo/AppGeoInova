@@ -96,10 +96,10 @@ public class TelaFormulario extends AppCompatActivity {
                     // Instanciamento da classe Pessoas para salvar os dados;
                     Pessoas p = new Pessoas();
 
-                    p.getNome(txtNome.getText().toString());
-                    p.getNascimento(txtNascimento.getText().toString());
-                    p.getEmail(txtEmail.getText().toString());
-                    p.getSexo(txtSexo.getText().toString());
+                    p.setNome(txtNome.getText().toString());
+                    p.setNascimento(txtNascimento.getText().toString());
+                    p.setEmail(txtEmail.getText().toString());
+                    p.setSexo(txtSexo.getText().charAt(1));
 
                     // Aqui seria execultado os endpoints;
                     Intent endpoint1 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://geoinova.com.br/teste/repositorio.php"));

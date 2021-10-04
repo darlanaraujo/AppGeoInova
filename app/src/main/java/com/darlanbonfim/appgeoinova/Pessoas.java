@@ -10,9 +10,7 @@ public class Pessoas {
     private String email;
     private char sexo;
 
-    public Arrays pessoas;
-
-    public String getNome(String s) {
+    public String getNome() {
         return nome;
     }
 
@@ -20,7 +18,7 @@ public class Pessoas {
         this.nome = nome;
     }
 
-    public String getNascimento(String s) {
+    public String getNascimento() {
         return nascimento;
     }
 
@@ -28,7 +26,7 @@ public class Pessoas {
         this.nascimento = nascimento;
     }
 
-    public String getEmail(String s) {
+    public String getEmail() {
         return email;
     }
 
@@ -36,12 +34,11 @@ public class Pessoas {
         this.email = email;
     }
 
-    public char getSexo(String s) {
+    public char getSexo() {
         return sexo;
     }
 
     public void setSexo(char sexo) {
         this.sexo = sexo;
     }
-
 }
